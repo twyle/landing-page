@@ -9,7 +9,7 @@
 
 .header{
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.38), rgba(0,0,0,0.38)), url("images.jpeg");
+    background-image: linear-gradient(rgba(0,0,0,0.30), rgba(0,0,0,0.30)), url("images.jpeg");
     background-repeat: no-repeat;
     background-size: cover
 }
@@ -78,7 +78,7 @@
 }
 
 .content-section{
-    width: 100%;
+    width: 65%;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -97,7 +97,7 @@
 
 .content-section p{
     color: #a1a1a1;
-    font-size: 19px;
+    font-size: 23px;
     margin-top: 10px;
     line-height: 1.5;
 }
@@ -162,6 +162,10 @@
         width: 40px;
         background-color: #fff;
         border-radius: 50%;
+    }
+
+    .content-section{
+        width: 100%;
     }
 
     .content-section h1{
