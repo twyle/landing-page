@@ -9,7 +9,7 @@
 
 .header{
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.38), rgba(0,0,0,0.38)), url("background.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.38), rgba(0,0,0,0.38)), url("images.jpeg");
     background-repeat: no-repeat;
     background-size: cover
 }
